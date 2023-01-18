@@ -38,7 +38,7 @@ const FilmBox = () => {
             </ul>
             <hr></hr>
             <div class="upcoming-releases">
-                <a href="https://www.imdb.com/calendar/?region=gb"><h2 class="chevron">View more upcoming releases </h2></a>
+                <a href="https://www.imdb.com/calendar/?region=gb" target="_blank"><h2 class="chevron">View more upcoming releases </h2></a>
             </div>
         </article>
     )
